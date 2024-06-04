@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mugurel1998/Color-Wheel-TestApp/issues"
   },
-  "homepage": "https://github.com/mugurel1998/Color-Wheel-TestApp#readme"
+  "homepage": "https://github.com/mugurel1998/Color-Wheel-TestApp#readme",
+  "dependencies": {
+    "cypress": "^13.11.0"
+  }
 }
