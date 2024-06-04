@@ -1,0 +1,26 @@
+{
+  "name": "color-wheel-testapp",
+  "version": "1.0.0",
+  "description": "This repo contains e2e test with cypress for color wheel app from practice automation test web site where you are supposed to choose the corect color after a roll of the wheel",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugurel1998/Color-Wheel-TestApp.git"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "js",
+    "e2e",
+    "cypress"
+  ],
+  "author": "Mugrel C.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mugurel1998/Color-Wheel-TestApp/issues"
+  },
+  "homepage": "https://github.com/mugurel1998/Color-Wheel-TestApp#readme"
+}
